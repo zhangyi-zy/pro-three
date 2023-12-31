@@ -5,6 +5,6 @@ public class Test {
         System.out.println("hello!");
         System.out.println("123456");
         System.out.println("123456");
-        System.out.println("123456");
+        System.out.println("123456kkkk");
     }
 }
